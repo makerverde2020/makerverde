@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+
+<body onLoad="MM_preloadImages(
+'https://makerverde.com/wp-content/uploads/2020/04/001_Sawmill_Programme-for-web.png',
+'https://makerverde.com/wp-content/uploads/2020/04/002_Sawmill_Programme-for-web.png',
+'https://makerverde.com/wp-content/uploads/2020/04/003_Sawmill_Programme-for-web.png',
+'https://makerverde.com/wp-content/uploads/2020/04/004_Sawmill_Programme-for-web.png',
+'https://makerverde.com/wp-content/uploads/2020/04/005_Sawmill_Programme-for-web.png',
+'https://makerverde.com/wp-content/uploads/2020/04/006_Sawmill_Programme-for-web.png',
+'https://makerverde.com/wp-content/uploads/2020/04/007_Sawmill_Programme-for-web.png',
+'https://makerverde.com/wp-content/uploads/2020/04/008_Sawmill_Programme-for-web.png',
+'https://makerverde.com/wp-content/uploads/2020/04/009_Sawmill_Programme-for-web.png',
+'https://makerverde.com/wp-content/uploads/2020/04/010_Sawmill_Programme-for-web.png',
+'https://makerverde.com/wp-content/uploads/2020/04/011_Sawmill_Programme-for-web.png',
+'https://makerverde.com/wp-content/uploads/2020/04/012_Sawmill_Programme-for-web.png',
+'https://makerverde.com/wp-content/uploads/2020/04/013_Sawmill_Programme-for-web.png',
+'https://makerverde.com/wp-content/uploads/2020/04/014_Sawmill_Programme-for-web.png',
+'https://makerverde.com/wp-content/uploads/2020/04/015_Sawmill_Programme-for-web.png',
+'https://makerverde.com/wp-content/uploads/2020/04/016_Sawmill_Programme-for-web.png',
+'https://makerverde.com/wp-content/uploads/2020/04/017_Sawmill_Programme-for-web.png')">
+	
+<img src="https://makerverde.com/wp-content/uploads/2020/04/000_Sawmill_Programme-for-web.png" alt="School of Timber Programme" usemap="#programme" id="programme" title="Programme image map">
+	
+<map name="programme">
+<area shape="poly" coords="284,219,428,136,500,179,356,261" href="#" target="_blank" alt="Sawmill" onmouseover="MM_swapImage('programme','','https://makerverde.com/wp-content/uploads/2020/04/001_Sawmill_Programme-for-web.png',1)" onmouseout="MM_swapImgRestore()" >
+<area shape="poly" coords="394,255,510,189,606,242,491,310" href="#" target="_blank" alt="Rough Sawn Timber/ Sorting"  onmouseover="MM_swapImage('programme','','https://makerverde.com/wp-content/uploads/2020/04/002_Sawmill_Programme-for-web.png',1)" onmouseout="MM_swapImgRestore()">
+<area shape="poly" coords="619,250,656,271,626,289,589,268" href="#" target="_blank" alt="Changing and PPE"  onmouseover="MM_swapImage('programme','','https://makerverde.com/wp-content/uploads/2020/04/003_Sawmill_Programme-for-web.png',1)" onmouseout="MM_swapImgRestore()" >
+<area shape="poly" coords="643,296,670,279,719,308,692,325" href="#" target="_blank" alt="Crib Hut"  onmouseover="MM_swapImage('programme','','https://makerverde.com/wp-content/uploads/2020/04/004_Sawmill_Programme-for-web.png',1)" onmouseout="MM_swapImgRestore()" >
+<area shape="poly" coords="727,346,756,330,735,318,707,334" href="#" target="_blank" alt="w/c"  onmouseover="MM_swapImage('programme','','https://makerverde.com/wp-content/uploads/2020/04/005_Sawmill_Programme-for-web.png',1)" onmouseout="MM_swapImgRestore()">
+<area shape="poly" coords="771,339,792,350,764,366,745,355" href="#" target="_blank" alt="First Aid"  onmouseover="MM_swapImage('programme','','https://makerverde.com/wp-content/uploads/2020/04/006_Sawmill_Programme-for-web.png',1)" onmouseout="MM_swapImgRestore()">
+<area shape="poly" coords="577,276,675,333,606,375,505,317" href="#" target="_blank"  alt="Table Saw"  onmouseover="MM_swapImage('programme','','https://makerverde.com/wp-content/uploads/2020/04/007_Sawmill_Programme-for-web.png',1)" onmouseout="MM_swapImgRestore()">
+<area shape="poly" coords="702,349,748,376,720,392,675,366" href="#" target="_blank" alt="bandsaw"  onmouseover="MM_swapImage('programme','','https://makerverde.com/wp-content/uploads/2020/04/008_Sawmill_Programme-for-web.png',1)" onmouseout="MM_swapImgRestore()">
+<area shape="poly" coords="649,367,705,400,677,416,619,385" href="#" target="_blank" alt="Planner Thicknesser" onmouseover="MM_swapImage('programme','','https://makerverde.com/wp-content/uploads/2020/04/009_Sawmill_Programme-for-web.png',1)" onmouseout="MM_swapImgRestore()">
+<area shape="poly" coords="691,426,807,359,900,414,786,479" href="#" target="_blank" alt="Seasoning/ Air Drying" onmouseover="MM_swapImage('programme','','https://makerverde.com/wp-content/uploads/2020/04/010_Sawmill_Programme-for-web.png',1)" onmouseout="MM_swapImgRestore()">
+<area shape="poly" coords="510,17,604,71,568,92,475,38" href="#" target="_blank" alt="Design and Library" onmouseover="MM_swapImage('programme','','https://makerverde.com/wp-content/uploads/2020/04/011_Sawmill_Programme-for-web.png',1)" onmouseout="MM_swapImgRestore()">
+<area shape="poly" coords="458,47,511,75,487,88,438,62" href="#" target="_blank" alt="Small Machinery/ Handtools" onmouseover="MM_swapImage('programme','','https://makerverde.com/wp-content/uploads/2020/04/012_Sawmill_Programme-for-web.png',1)" onmouseout="MM_swapImgRestore()">
+<area shape="poly" coords="525,84,552,100,534,113,503,96" href="#" target="_blank" alt="W/C" title="13.W/C" onmouseover="MM_swapImage('programme','','https://makerverde.com/wp-content/uploads/2020/04/013_Sawmill_Programme-for-web.png',1)" onmouseout="MM_swapImgRestore()">
+<area shape="poly" coords="423,67,473,96,446,113,395,84" href="#" target="_blank" alt="Fore(wo)mans Office" onmouseover="MM_swapImage('programme','','https://makerverde.com/wp-content/uploads/2020/04/014_Sawmill_Programme-for-web.png',1)" onmouseout="MM_swapImgRestore()">
+<area shape="poly" coords="489,105,520,122,491,139,460,122" href="#" target="_blank" alt="Sawdust Silo" onmouseover="MM_swapImage('programme','','https://makerverde.com/wp-content/uploads/2020/04/015_Sawmill_Programme-for-web.png',1)" onmouseout="MM_swapImgRestore()">
+<area shape="poly" coords="619,80,677,112,560,180,504,147" href="#" target="_blank" alt="Finished Articles/ Presentaion" onmouseover="MM_swapImage('programme','','https://makerverde.com/wp-content/uploads/2020/04/016_Sawmill_Programme-for-web.png',1)" onmouseout="MM_swapImgRestore()">
+<area shape="poly" coords="690,121,791,180,677,246,575,188" href="#" target="_blank" alt="Bench room/ Production" onmouseover="MM_swapImage('programme','','https://makerverde.com/wp-content/uploads/2020/04/017_Sawmill_Programme-for-web.png',1)" onmouseout="MM_swapImgRestore()">
+</map>
+</body>
+</html>
